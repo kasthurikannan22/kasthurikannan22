@@ -29,10 +29,7 @@ new technologies and applying them to real-world projects.
 - JavaScript
 - HTML
 - CSS
-
-### Tools
-- Git & GitHub (Beginner)
-
+- 
 ---
 
 ## 📌 Projects
