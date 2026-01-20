@@ -59,7 +59,7 @@ projects, improve my skills, and grow in the IT industry.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: kasthurikannan22@gmail.com  
+- 📧 Email: kasthurikannan0122@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/kasthuri-kannan/  
 
 ---
